@@ -6,4 +6,6 @@ Create a file secrets.py with two variables:
 
 
   username = 'your tinder user name'
+  
+  
   password = 'your password'
